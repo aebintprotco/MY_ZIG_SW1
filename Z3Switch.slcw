@@ -1,0 +1,6 @@
+---
+label: "Z3Switch"
+project:
+- id: "main"
+  path: "My_Z3Switch_1_switch.slcp"
+  output: "."
